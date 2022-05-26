@@ -1,2 +1,2 @@
 # Tmail
-CLI email that supports many features. 
+A CLI email that supports many features. 
